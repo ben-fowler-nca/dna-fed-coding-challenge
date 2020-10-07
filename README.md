@@ -14,11 +14,11 @@ We're interested to see how you would build the design included in this repo usi
 
 We don't want you to spend too much of your own time to complete this - provide whatever you feel can represent your current FE skill-set within a reasonable effort.
 
-## Ways to approach this challenge
+## Please note
 
-- The repo contains a file `data.json` in the `/assets/js/` subfolder. It contains all data for this page. You are free to use the framework of your choice and take a component-driven approach, or simply copy and paste as required into your markup.
-- There is a carousel/gallery included in a section within the design. Please display the navigational arrows only on hover of the image and set to autoplay. You are not required to write the functionality and may select a plugin to use. 
-- You may or may not have access to Sketch. A basic "UI Kit" is also provided, together with an image of the design. We don't expect complete pixel perfect spacing between elements. Balance efficiency and precision.
+- Copy for the page can be found in `data.json` in the `/assets/js/` subfolder. You are not required to consume the data from this file and may copy into your markup as appropriate. 
+- There is a carousel/gallery included in a section within the design. You are not required to write the functionality and may select a plugin to use. 
+- You may or may not have access to Sketch. A basic "UI Kit" is also provided, together with an image of the design. We don't expect complete pixel perfect spacing between elements. 
 - This challenge is set up to use [Parcel.js](https://parceljs.org/), which is a zero config application bundler. You aren't required to use this, please use whatever configuration (if at all) that you are comfortable with. If you have any issue with the set up please advise.
 
 ## Getting started
